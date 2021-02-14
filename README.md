@@ -8,7 +8,11 @@ To build, download the Xcode project file and download it. After that, open the 
 If it doesn't work after an edit, Happy Bird is **kinda fragile**, so if **it stoped working** after an edit, the **only option** is to **redownload** the **.zip with source code** and not make the last change(s) that broke the game.
 ## Playing
 The game **auto-opens** to the **actual game**, which **you control the jumps** with taps on the iDevice. The **game is very simple**, with no **rewards or winning**, only losing when you hit the ground or hit a pipe.
-## Will there ever be an IPA or App Store version?
-Sadly, no. I do not have a **paid Apple Developer account**, which is needed to **make an IPA**. It might be possible with **3rd party macOS apps**, but right now, **I have no plans** to make **even an IPA release**. However as of now, you can **fork the repository**, and make an **IPA release** with custom features, though **you are permitted to put your own release on the App Store (with some limits listed at the top of the README file).**
+## Is there an IPA or App Store version?
+I finaly have one! Which means yes to IPA!
 ## Can you make it work on older devices?
 No, at least me. The **games deployment target and some code** is meant for **iOS 11.0 and above**. However **you could make it work** with **older iOS versions** such as iOS 9 and 10  by using **legacy code** and setting the **deployment target** to a **lower iOS version.**
+## Install | Xcode
+ownload the Xcode project file and download it. After that, open the **.xcodeproj** file in **Xcode 10.0** or above. After that, **pick your phone** to build to and press the "**Play**" button. Wait for it **to build**, then see it pop up in **your iDevice**.
+## Install | AltStore
+Download the IPA to your PC or Mac, then install AltStore **to your device**, then select the **IPA file** in the **Files** app and open it in **AltStore**. Make sure that your device is **linked to a non-kid Apple ID** and **pluged into** your **PC or Mac.** The app will install.
