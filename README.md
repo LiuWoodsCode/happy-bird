@@ -13,6 +13,6 @@ I finaly have one! Which means yes to IPA!
 ## Can you make it work on older devices?
 No, at least me. The **games deployment target and some code** is meant for **iOS 11.0 and above**. However **you could make it work** with **older iOS versions** such as iOS 9 and 10  by using **legacy code** and setting the **deployment target** to a **lower iOS version.**
 ## Install | Xcode
-ownload the Xcode project file and download it. After that, open the **.xcodeproj** file in **Xcode 10.0** or above. After that, **pick your phone** to build to and press the "**Play**" button. Wait for it **to build**, then see it pop up in **your iDevice**.
+Download the Xcode project file and download it. After that, open the **.xcodeproj** file in **Xcode 10.0** or above. After that, **pick your phone** to build to and press the "**Play**" button. Wait for it **to build**, then see it pop up in **your iDevice**.
 ## Install | AltStore
 Download the IPA to your PC or Mac, then install AltStore **to your device**, then select the **IPA file** in the **Files** app and open it in **AltStore**. Make sure that your device is **linked to a non-kid Apple ID** and **pluged into** your **PC or Mac.** The app will install.
